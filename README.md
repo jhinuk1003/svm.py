@@ -74,4 +74,5 @@ Detect whether u
 
 ##  Contributions
 
-Made with  by [Subham Bhattacharya](https://github.com/subhambhattacharya)
+Made with  by [j
+Jhinuk Roy](https://github.com/jhinukroy)
